@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Morgan&#39;s Cyber Blog</title>
-    <link>https://morgangreen.github.io/posts/</link>
-    <description>Recent content in Posts on Morgan&#39;s Cyber Blog</description>
+    <title>Posts on Hugo ʕ•ᴥ•ʔ Bear Blog</title>
+    <link>https://example.com/posts/</link>
+    <description>Recent content in Posts on Hugo ʕ•ᴥ•ʔ Bear Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-GB</language>
-    <lastBuildDate>Tue, 21 Feb 2023 13:01:10 +0000</lastBuildDate><atom:link href="https://morgangreen.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language>
+    <copyright>Copyright © 2020, Jane Doe.</copyright>
+    <lastBuildDate>Tue, 21 Feb 2023 13:01:10 +0000</lastBuildDate><atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Into</title>
-      <link>https://morgangreen.github.io/posts/into/</link>
+      <link>https://example.com/posts/into/</link>
       <pubDate>Tue, 21 Feb 2023 13:01:10 +0000</pubDate>
       
-      <guid>https://morgangreen.github.io/posts/into/</guid>
+      <guid>https://example.com/posts/into/</guid>
       <description>Hello World!</description>
     </item>
     
