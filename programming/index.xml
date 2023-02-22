@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Programming on Morgan&#39;s Cyber Security Shed of Chaos</title>
-    <link>https://mgreen01.github.io/programming/</link>
+    <link>https://mgreen01.github.io/morgangreen.github.io/programming/</link>
     <description>Recent content in Programming on Morgan&#39;s Cyber Security Shed of Chaos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mgreen01.github.io/programming/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mgreen01.github.io/morgangreen.github.io/programming/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mr Robot - Boot2Root CTF Walkthrough</title>
-      <link>https://mgreen01.github.io/programming/mr-robot/</link>
+      <link>https://mgreen01.github.io/morgangreen.github.io/programming/mr-robot/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mgreen01.github.io/programming/mr-robot/</guid>
+      <guid>https://mgreen01.github.io/morgangreen.github.io/programming/mr-robot/</guid>
       <description>Mr Robot CTF Walk-through Network Enumeration and Scanning Website Navigation CTF Flags Flag 1 Flag 2 Flag 3 Mr Robot CTF Walk-through Network Enumeration and Scanning The first we must do before we do anything we must scan the virtual network. Use arp-net to scan the virtual network. Then a list of the IP addresses should appear. One of the devices on the network should have “PCS Systemtechnik GmbH” as the vendor.</description>
     </item>
     
