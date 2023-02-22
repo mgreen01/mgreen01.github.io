@@ -1,2 +1,2 @@
 User-Agent: *
-Sitemap: https://mgreen01.github.io/morgangreen.github.io/sitemap.xml
+Sitemap: https://morgangreen.github.io/sitemap.xml

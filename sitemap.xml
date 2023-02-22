@@ -2,38 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mgreen01.github.io/morgangreen.github.io/</loc>
+    <loc>https://morgangreen.github.io/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url><url>
-    <loc>https://mgreen01.github.io/morgangreen.github.io/ctfs/ctf/</loc>
+    <loc>https://morgangreen.github.io/ctfs/ctf/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mgreen01.github.io/morgangreen.github.io/ctfs/</loc>
+    <loc>https://morgangreen.github.io/ctfs/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mgreen01.github.io/morgangreen.github.io/ctfs/mr-robot/</loc>
+    <loc>https://morgangreen.github.io/ctfs/mr-robot/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mgreen01.github.io/morgangreen.github.io/programming/mr-robot/</loc>
+    <loc>https://morgangreen.github.io/programming/mr-robot/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mgreen01.github.io/morgangreen.github.io/programming/</loc>
+    <loc>https://morgangreen.github.io/programming/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mgreen01.github.io/morgangreen.github.io/ctfs/syntax/</loc>
+    <loc>https://morgangreen.github.io/ctfs/syntax/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mgreen01.github.io/morgangreen.github.io/ctfs/cybersecurity/</loc>
+    <loc>https://morgangreen.github.io/ctfs/cybersecurity/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mgreen01.github.io/morgangreen.github.io/ctfs/tryhackme/</loc>
+    <loc>https://morgangreen.github.io/ctfs/tryhackme/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mgreen01.github.io/morgangreen.github.io/ctfs/intro-thm/</loc>
+    <loc>https://morgangreen.github.io/ctfs/intro-thm/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mgreen01.github.io/morgangreen.github.io/ctfs/walkthrough/</loc>
+    <loc>https://morgangreen.github.io/ctfs/walkthrough/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
   </url>
 </urlset>
