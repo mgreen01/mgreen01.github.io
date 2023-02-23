@@ -15,12 +15,6 @@
     <loc>https://mgreen01.github.io/ctfs/mr-robot/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mgreen01.github.io/programming/mr-robot/</loc>
-    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mgreen01.github.io/programming/</loc>
-    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://mgreen01.github.io/ctfs/syntax/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
   </url><url>
@@ -35,5 +29,7 @@
   </url><url>
     <loc>https://mgreen01.github.io/ctfs/walkthrough/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mgreen01.github.io/programming/</loc>
   </url>
 </urlset>

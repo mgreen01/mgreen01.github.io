@@ -17,15 +17,6 @@
     </item>
     
     <item>
-      <title>Mr Robot - Boot2Root CTF Walkthrough</title>
-      <link>https://mgreen01.github.io/programming/mr-robot/</link>
-      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://mgreen01.github.io/programming/mr-robot/</guid>
-      <description>Mr Robot CTF Walk-through Network Enumeration and Scanning Website Navigation CTF Flags Flag 1 Flag 2 Flag 3 Mr Robot CTF Walk-through Network Enumeration and Scanning The first we must do before we do anything we must scan the virtual network. Use arp-net to scan the virtual network. Then a list of the IP addresses should appear. One of the devices on the network should have “PCS Systemtechnik GmbH” as the vendor.</description>
-    </item>
-    
-    <item>
       <title>TryHackMe Introduction CTF - (Originally written for the members of the USWCSS.)</title>
       <link>https://mgreen01.github.io/ctfs/intro-thm/</link>
       <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
